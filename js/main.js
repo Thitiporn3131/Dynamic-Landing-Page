@@ -1,7 +1,4 @@
 //DOM Element
-const time = document.getElementById('time'),
-    greeting = document.getElementById('greeting')
-
 
 var score = prompt("What your mood today,love? ")
 
